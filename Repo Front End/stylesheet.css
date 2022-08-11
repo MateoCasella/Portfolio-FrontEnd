@@ -1,0 +1,79 @@
+header{
+    background-color: #c2c2c2;
+    display: flex;
+    width: 100%;
+    align-items: center;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+.redes{
+    margin-bottom: 0;
+}
+
+.logos {
+    text-decoration: none;
+    padding-left: 60%;
+    display: inline;
+}
+
+.logos ul li{
+    list-style: none;
+    font-size: 25px;
+    display: inline-block;
+    
+}
+
+#logolinkedin{
+    margin-right: 10px;
+    
+}
+
+#logoinstagram{
+    margin-right: 10px;
+}
+.banner{
+    background-color: aqua;
+    position: relative;
+    border-radius: 30px;
+    width: 96%;
+    margin-left: 2%;
+    margin-top: 2%;
+
+}
+#fotobanner{
+    width: 12.5%;
+    height: auto;
+    margin: auto;
+    display: block;
+    border-radius: 50%;
+    left: 50%;
+    top: 20%;
+   
+}
+
+.descripcion1{
+margin-left: 2%;
+margin-right: 2%;
+display: inline-block;
+display: flex;
+justify-content: center;
+}
+
+#parte1{
+    background-color: bisque;
+    display: block;
+    text-align: left;
+}
+
+#parte2{
+    display: block;
+    text-align: center;
+}
+
+
+
+
+
+
+
