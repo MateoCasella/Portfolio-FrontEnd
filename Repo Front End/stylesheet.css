@@ -45,31 +45,149 @@ header{
     width: 12.5%;
     height: auto;
     margin: auto;
-    display: block;
-    border-radius: 50%;
-    left: 50%;
-    top: 20%;
+    display: flex;
+    padding-top: 5%;
+    border-radius: 30px;
+   
+
+    ;
    
 }
 
-.descripcion1{
+.apartado1{
 margin-left: 2%;
 margin-right: 2%;
-display: inline-block;
+margin-bottom: 2%;
+margin-top: 0;
+padding-top: 1.5%;
+padding-left: 1.5%;
+padding-right: 1.5%;
+padding-bottom: 0.5%;
 display: flex;
-justify-content: center;
+justify-content: space-between;
+border: solid;
+border-top: none;
+border-color: #c2c2c2;
+border-radius: 30px;
+
 }
 
 #parte1{
-    background-color: bisque;
     display: block;
-    text-align: left;
+    padding-left: 1.5%;
+    padding-top: 1.5%;
+    
+
 }
 
 #parte2{
     display: block;
     text-align: center;
+    padding-top: 0.5%;
+    padding-left: 1.5%;
+    padding-right: 1.5%;
+    padding-bottom: 0.5%;
 }
+
+#presentacion{
+    border: solid;
+    border-color: #c2c2c2;
+    margin-left: 2%;
+    margin-bottom: 2%;
+    padding-top: 1%;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-bottom: 0.5%;
+    border-radius: 30px;
+    border-top: none;
+    width: 96%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.formatodedescripcion{
+    border: solid;
+    border-color: #c2c2c2;
+    margin-left: 2%;
+    margin-bottom: 2%;
+    padding-top: 1%;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-bottom: 0.5%;
+    border-radius: 30px;
+    width: 96%;
+}
+.descripcion{
+padding-top: 1.5%;
+display: flex;
+justify-content: left;
+align-items: center;
+}
+
+#argplogo{
+    width: 7.5%;
+}
+
+.fecha{
+    padding-left: 6%;
+}
+
+#jalogo{
+    width: 6%;
+    padding-right: 0.35%;
+}
+
+#slogo{
+    width: 5%;
+    padding-right: 0.35%;
+}
+
+#mllogo{
+   width: 6%;
+}
+
+#tlogo{
+    width: 4%;
+}
+
+.formatodedescripcion2{
+    text-align: center;
+    border: solid;
+    border-color: #c2c2c2;
+    margin-left: 2%;
+    margin-bottom: 2%;
+    padding-top: 1%;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-bottom: 0.5%;
+    border-radius: 30px;
+    width: 96%;
+}
+
+#barrasdeprogreso{
+    display: block;
+}
+
+.barradeprogreso{
+   display: block;
+   padding-top: 1.5%;
+   padding-bottom: 1%;
+}
+.nombredebarradeprogreso{
+    padding-bottom: 1%;
+}
+
+.proyectos{
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
+}
+
+
+
+
+
+
+
+
 
 
 
